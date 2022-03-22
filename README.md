@@ -6,7 +6,6 @@ https://vickman123.github.io/Multimedia_3CM50/
 
 <html>
     <head>
-        <title>Reproductor Multimedia</title>
     </head>
     <body>
 <TABLE WIDTH="50%" BORDER="2">
